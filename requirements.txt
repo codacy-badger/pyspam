@@ -1,0 +1,2 @@
+pyautogui
+prompt_toolkit
