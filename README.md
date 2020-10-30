@@ -3,7 +3,7 @@ A spammer bot built using Python
 
 ## Usage
 ### Starting pyspam
-Open up the terminal and type
+Open up the terminal, Go to the folder where pyspam is installed and type
 ```
 pyspam <some_kind_of_file.whatever>
 ```
