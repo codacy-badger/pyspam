@@ -23,3 +23,7 @@ And pyspam will crash.
 ```
 pyinstaller main.py -n pyspam -F -c
 ```
+**NOTE**: This requires `pyinstaller` to be installed.
+If not, run `pip install pyinstaller`
+
+**NOTE**: Compiling is not required
